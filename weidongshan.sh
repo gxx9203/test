@@ -1,6 +1,6 @@
 #!/bin/bash
-mkdir weidognshan
-cd weidognshan
+mkdir weidongshan
+cd weidongshan
 repo init --repo-url=https://mirrors.tuna.tsinghua.edu.cn/git/git-repo --no-repo-verify --repo-branch=stable -u https://github.com/gxx9203/manifests.git -b default -m weidongshang.xml
 repo sync 
 
