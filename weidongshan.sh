@@ -6,7 +6,7 @@ repo sync
 
 ls -la
 tree
-cd  luanguage/cpp_projects/07th_static/
+cd  weidongshan/luanguage/cpp_projects/07th_static/
 
 g++ persion.cpp -o person
 ./person
