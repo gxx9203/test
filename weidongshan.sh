@@ -8,7 +8,7 @@ ls -la
 tree
 cd  weidongshan/luanguage/cpp_projects/07th_static/
 ls -la
-g++ persion.cpp -o person
+g++ person.cpp -o person
 ./person
 
 echo "done---"
